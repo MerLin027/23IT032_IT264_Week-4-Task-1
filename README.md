@@ -20,11 +20,11 @@ The **File Organizer Tool** is a simple CLI utility built using Node.js to help 
 1. Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 2. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/file-organizer-tool.git
+   git clone https://github.com/MerLin027/23IT032_IT264_Week-4-Task-1.git
    ```
 3. Navigate to the project directory:
    ```sh
-   cd file-organizer-tool
+   cd 23IT032_IT264_Week-4-Task-1
    ```
 4. Install dependencies (if required in future updates):
    ```sh
@@ -35,7 +35,7 @@ The **File Organizer Tool** is a simple CLI utility built using Node.js to help 
 1. Open a terminal and navigate to the project directory.
 2. Run the script using:
    ```sh
-   node organizer.js
+   node app.js
    ```
 3. Enter the absolute or relative path to the directory you want to organize when prompted.
 4. The script will:
