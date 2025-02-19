@@ -1,0 +1,7 @@
+java folder created
+test1.java moved to java folder
+cpp folder created
+test2.cpp moved to cpp folder
+py folder created
+test3.py moved to py folder
+test4.java moved to java folder
